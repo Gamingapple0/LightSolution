@@ -1,0 +1,23 @@
+nav.header{
+    display: flex;
+    justify-content:space-between;
+    background-color: hwb(149 13% 16%);
+    padding-top: 15px;
+}
+
+.header > h2{
+    margin: 6px 0px 4px 5px;
+
+}
+
+.header ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.header ul > li{
+    padding-right: 20px;
+    cursor: pointer;
+}
+
