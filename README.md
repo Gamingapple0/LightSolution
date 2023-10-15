@@ -53,3 +53,7 @@ The Scalable IoT-Enabled Smart Lighting System is designed for large buildings a
 ## Conclusion
 
 This project represents a significant advancement in smart lighting systems for large buildings. By combining IoT technology, scalable architecture, and security measures, it offers a powerful solution for optimizing energy use and enhancing user experiences in modern structures.
+
+## Demo
+
+Although the site is no loger live due to budget restrictions, a full detailed demonstration video can be viewed [here](https://www.youtube.com/watch?v=_3pLMlNAw9k)
